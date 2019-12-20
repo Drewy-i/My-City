@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>My City</title>
+</head>
+<h1><font size ="20" color ="blue"> The City of Athens</h1></font>
+<img src="IMGATH.jpg" alt="IMGATH" height="350"width="1000" />
+<body>
+  <body style="background-color:grey;">
+</body>
+
+  <h2> Brief Definition </h2>
+<p>
+Athens is the capital and largest city of Greece and one of the oldest cities
+in the world with a recorded history that goes back 3,400 years. Classical Athens
+was a center for philosophy, art and learning and considered the cradle of Western civilization and democracy.
+Today, Athens is a cosmopolitan metropolis that is the financial, political, cultural and
+economic center for the country. In 2016, Athens has an estimated population of over 665,000
+in the city proper, or 3.75 million in the metropolitan area.
+  The city of Athens, Greece, with its famous Acropolis,
+  has come to symbolize
+  the whole of the country in the popular imagination,
+  and not without cause.
+
+</p>
+<h3>Below is all you need to know about the city,visit and do.</h3>
+<ul>
+
+<li><a href=" https://en.wikipedia.org/wiki/Athens">
+Athens Wiki.</li> </a>
+<li><a href="https://www.tripadvisor.co.uk/SmartDeals-g189400-Athens_Attica-Hotel-Deals.html">
+Hotel prices.
+</li>
+</a>
+<li><a href=" https://www.tripadvisor.co.uk/Attractions-g189400-Activities-Athens_Attica.html">
+  Activities in the city.
+</li>
+</a>
+<li><a href="https://www.tripadvisor.co.uk/Restaurants-g189400-Athens_Attica.html">
+  Food in Athens.
+</li>
+</a>
+<li><a href="http://www.10best.com/destinations/greece/athens/nightlife/bars/">
+  Night life in athens.
+</li>
+</a>
+</ul>
+
+<a href="http://photographyblogger.net/30-pictures-of-athens-greece/">
+  <img border ="0" alt="Monastirion" src="Mon3.jpg" width="400" height="200"
+</a>
+<a href="http://ancientathens.weebly.com/important-athenians.html">
+  <img border ="0" alt="Ancient Greek Ph" src="AEF.jpg" width="400" height="200"
+</a>
+</body>
+
+</html>
